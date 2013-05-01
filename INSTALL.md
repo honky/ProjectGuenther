@@ -12,10 +12,14 @@ Open a shell
 
 `cd wiringPi`
 
-`./build`
+`sudo ./build`
 
-// follow instructions needs sudo
+// follow instructions
 
-make rcswitchPi
+`cd ..`
 
-etc.
+`cd rcswitchPi`
+
+`make` 
+
+`sudo ./send 11111 0 0`
