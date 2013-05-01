@@ -5,7 +5,9 @@ ProjectGuenther
 
 Guenther is my last try to keep a plant alive. For this I built some Raspberry Pi construction which is able to control power sockets over the air on 433mhz.
 
-Because of an growing amount of Guenthers features and some things I do over and over again, I want a place where all of the features Guenther uses come together. Please stay tuned for less mistakes in my english and more code to come.
+Because of an growing amount of Guenthers features and some things I do over and over again,
+I want a place where all of Guenthers' code uses come together. 
+Please stay tuned for less mistakes in my english and more things to come.
 
 ###Howto
 
@@ -14,7 +16,7 @@ links that are leading to different languages than English will me marked with [
 
 ####Hardware
 
-*Raspberry Pi
+- Raspberry Pi
 - 433mhz 
 - blueprints
   - circuits
