@@ -10,7 +10,11 @@ Open a shell
 
 `git submodule update`
 
-make wiringPi
+`cd wiringPi`
+
+`./build`
+
+// follow instructions needs sudo
 
 make rcswitchPi
 
