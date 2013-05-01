@@ -1,4 +1,4 @@
-May 1sd, 2013
+May 1st, 2013
 
 Copyright (C) 2013 
 
