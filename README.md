@@ -15,21 +15,37 @@ links that are leading to different languages than English will me marked with [
 ####Hardware
 
 *Raspberry Pi
-*433mhz
-*pictures
-*blueprints
+- 433mhz 
+- blueprints
+  - circuits
+    - pins https://projects.drogon.net/raspberry-pi...gpi/pins/  
+  - general
 
 ####Software
 
-*wiringPi
-*rcswitchPi
-*shell
-*nodeJs
-*php
+- wiringPi
+  - https://projects.drogon.net/raspberry-pi/wiringpi/ 
+- rcswitchPi
+  - https://github.com/domfi/rcswitch-pi/ 
+- shell
+  - cronjob
+  - exampleswitch
+  - webcam screenshot
+- nodeJs
+  - mini web gui
+  - twitter
+- php
+  - mini web gui 
 
 ###Contact
 
 Twitter: @GuentherDer2te [german]
+
+###futher tutorials
+
+http://www.jotschi.de/?tag=raspberrypi 
+http://www.gsurf.de/preiswertes-funkmodu...pberry-pi/ 
+http://code.google.com/p/rc-switch/ 
 
 First Thread ever:
 http://www.forum-raspberrypi.de/Thread-projekt-433mhz-steckdosen-steuerung [german]
