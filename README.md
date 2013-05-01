@@ -43,7 +43,7 @@ links that are leading to different languages than English will me marked with [
 
 Twitter: @GuentherDer2te [german]
 
-###futher tutorials
+###further tutorials / links / stuff
 
 http://www.jotschi.de/?tag=raspberrypi 
 http://www.gsurf.de/preiswertes-funkmodu...pberry-pi/ 
