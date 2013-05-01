@@ -24,6 +24,8 @@ links that are leading to different languages than English will me marked with [
   - general
 
 ####Software
+`git submodule init`
+`git submodule update` 
 
 - wiringPi
   - https://projects.drogon.net/raspberry-pi/wiringpi/ 
