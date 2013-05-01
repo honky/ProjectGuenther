@@ -5,6 +5,25 @@ Guenther is my last try to keep a plant alive. For this I built some Raspberry P
 
 Because of an growing amount of Guenthers features and some things I do over and over again, I want a place where all of the features Guenther uses come together. Please stay tuned for less mistakes in my english and more code to come.
 
+###Howto
+
+This isn't a real step by step guide, but it should give you an idea of what parts ProjectGuenther consists of.
+
+####Hardware
+
+433mhz
+pictures
+blueprints
+
+####Software
+
+wiringPi
+rcswitchPi
+shell
+nodeJs
+php
+
+###Contact
 
 Twitter: @GuentherDer2te [german]
 
