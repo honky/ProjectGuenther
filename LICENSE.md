@@ -11,3 +11,5 @@ Permission is granted to anyone to use this software for any purpose, including 
     Altered source versions must be plainly marked as such, and must not be misrepresented as being the original software.
 
     This notice may not be removed or altered from any source distribution.
+    
+Submodules belong to their owners and probably have their own Licence. This License does not affect them.
