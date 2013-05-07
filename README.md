@@ -26,8 +26,8 @@ See all photos here: https://dl.dropbox.com/u/8658085/rpi/
   - general
 
 ####Software
-`git submodule init`
-`git submodule update` 
+
+See INSTALL.md for basic install instructions.
 
 - wiringPi
   - https://projects.drogon.net/raspberry-pi/wiringpi/ 
