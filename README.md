@@ -48,9 +48,19 @@ Twitter: @GuentherDer2te [german]
 
 ###further tutorials / links / stuff
 
-http://www.jotschi.de/?tag=raspberrypi 
-http://www.gsurf.de/preiswertes-funkmodu...pberry-pi/ 
-http://code.google.com/p/rc-switch/ 
+- http://www.jotschi.de/?tag=raspberrypi 
+- http://www.gsurf.de/preiswertes-funkmodu...pberry-pi/ 
+- http://code.google.com/p/rc-switch/ 
+
+
+### ToDo
+
+- upload small nodeJS Webinterface
+- upload small php Webinterface
+- handle multiple shell scrips sending stuff by locking 
+- use old chip of remote to increase stable sending
+ 
+
 
 First Thread ever:
 http://www.forum-raspberrypi.de/Thread-projekt-433mhz-steckdosen-steuerung [german]
