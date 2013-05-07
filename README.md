@@ -55,8 +55,11 @@ Twitter: @GuentherDer2te [german]
 
 ### ToDo
 
+- upload webcam screenshot shellscript
+- upload email reporting shellscript
 - upload small nodeJS Webinterface
 - upload small php Webinterface
+- upload node js twitter bot ("brain of Guenther")
 - handle multiple shell scrips sending stuff by locking 
 - use old chip of remote to increase stable sending
  
