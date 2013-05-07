@@ -14,6 +14,8 @@ Please stay tuned for less mistakes in my english and more things to come.
 This isn't a real step by step guide, but it should give you an idea of what parts ProjectGuenther consists of.
 links that are leading to different languages than English will me marked with [language] 
 
+See all photos here: https://dl.dropbox.com/u/8658085/rpi/ 
+
 ####Hardware
 
 - Raspberry Pi
