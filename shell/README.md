@@ -1,4 +1,3 @@
-
 ###network-keepalive.sh
 My RaspberryPi tended to loose the wireless connection from time to tyme. Because I run it wireless only and its far away from a network switch I need a solution which is reconnects automagically.
 
@@ -11,3 +10,7 @@ Please look at the comments in file.
 The raspberryPi is a multiuser system. In times of heavy loads it can happen, that a switch doesn't switch because of timing problems in the 433 mhz protocol. 
 I use `nice` to give the process sending a signal a higher priority than the others which works better than expected.
 
+###waterGuenther.sh
+
+Guenthers pump mustbe turned off at all costs. This script is my main watering cronjob.
+Currently there is no locking algorithm, which would be needed if multiple scripts would handle sending events.
