@@ -34,4 +34,4 @@ Build rcSwitchPi
 
 First Test
 
-`sudo ./send 11111 0 0` // 11111 FamilyID 0 DeviceID 0 [1=on,0=off]
+`sudo ./send 11111 1 0` // 11111 (FamilyID) 1 (DeviceID) 0 [1=on,0=off]
