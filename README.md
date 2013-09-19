@@ -20,6 +20,7 @@ See all photos here: https://dl.dropbox.com/u/8658085/rpi/
 
 - Raspberry Pi
 - 433mhz 
+  - http://www.hit-karlsruhe.de/aol2mime/remote433.htm 
 - blueprints
   - circuits
     - pins https://projects.drogon.net/raspberry-pi...gpi/pins/  
